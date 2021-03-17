@@ -12,5 +12,4 @@ GitHub: https://github.com/beau4ta/coolPasswordGenerator
 
 Live Website: 
 
-![Image of Password Generator]
-(Develop/Develop/Assets/CSS/passwordgen.png)
+Develop/Develop/Assets/CSS/passwordgen.png
