@@ -10,6 +10,6 @@ A random password generator.
 
 GitHub: https://github.com/beau4ta/coolPasswordGenerator
 
-Live Website: 
+Live Website: https://beau4ta.github.io/coolPasswordGenerator/
 
-Develop/Develop/Assets/CSS/passwordgen.png
+<img src= "Develop/Develop/Assets/CSS/passwordgen.png">
